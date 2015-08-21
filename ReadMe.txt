@@ -15,3 +15,9 @@ git status
 git diff 'filename.txt'
 
 git add 'filename.txt'
+
+git log
+
+git log --pretty=oneline
+
+
