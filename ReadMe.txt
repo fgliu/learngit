@@ -20,4 +20,6 @@ git log
 
 git log --pretty=oneline
 
+git reset --hard HEAR^
 
+THIS IS TEST
