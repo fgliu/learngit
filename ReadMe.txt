@@ -27,3 +27,11 @@ git reset --hard HEAD~3
 git reset --hard 23c1dbf
 
 git reflog
+
+git checkout -- file
+
+git reset HEAD file
+
+git checkout -- file
+
+
