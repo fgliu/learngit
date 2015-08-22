@@ -36,4 +36,6 @@ git checkout -- file
 
 git rm file
 
+sh-keygen -t rsa -C "fgliu@live.cn"
+
 
