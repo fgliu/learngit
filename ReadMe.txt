@@ -34,4 +34,6 @@ git reset HEAD file
 
 git checkout -- file
 
+git rm file
+
 
