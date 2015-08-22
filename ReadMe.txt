@@ -20,6 +20,10 @@ git log
 
 git log --pretty=oneline
 
-git reset --hard HEAR^
+git reset --hard HEAD^
 
-THIS IS TEST
+git reset --hard HEAD~3
+
+git reset --hard 23c1dbf
+
+git reflog
