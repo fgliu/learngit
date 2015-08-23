@@ -91,5 +91,8 @@ git config --global color.ui true
 
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 
-
+git remote add <upstream name >  <remote url>
+git remote update <upstream name>
+git rebase upstream/{branch name}
+git push origin master
 
