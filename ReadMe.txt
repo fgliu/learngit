@@ -54,4 +54,9 @@ git merge <name>
 
 git log --graph --pretty=oneline --abbrev-commit
 
+git stash apply & git stash drop
+
+git stash pop
+
+git stash list
 
