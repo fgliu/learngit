@@ -44,4 +44,8 @@ git push -u origin master
 
 git clone git@github.com:fgliu/learngit.git
 
+git checkout -b dev = git branch dev & git checkout dev
+
+git branch
+
 
