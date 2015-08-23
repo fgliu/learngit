@@ -3,3 +3,6 @@ this is test file , create a new branch is quick & simple
 
 this is test, creaete a new branch is quick AND simple
 
+this is merge test  add param --no-ff
+
+
