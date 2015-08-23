@@ -54,4 +54,5 @@ git merge <name>
 
 git log --graph --pretty=oneline --abbrev-commit
 
+git merge --no-ff
 
