@@ -64,3 +64,6 @@ git stash pop
 
 git stash list
 
+git branch -D <name>
+
+
