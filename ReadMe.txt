@@ -39,4 +39,9 @@ git rm file
 sh-keygen -t rsa -C "fgliu@live.cn"
 
 git remote add origin https://github.com/fgliu/learngit.git
+git remote add origin git@github.com:fgliu/learngit.git
 git push -u origin master
+
+git clone git@github.com:fgliu/learngit.git
+
+
