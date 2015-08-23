@@ -66,4 +66,10 @@ git stash list
 
 git branch -D <name>
 
+git pull
+
+git branch --set-upstream branch-name origin/branch-name
+
+git checkout -b branch-name origin/branch-name
+
 
