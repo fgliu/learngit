@@ -58,4 +58,9 @@ git merge --no-ff
 
 git stash
 
+git stash apply & git stash drop
+
+git stash pop
+
+git stash list
 
