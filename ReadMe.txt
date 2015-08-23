@@ -72,4 +72,5 @@ git branch --set-upstream branch-name origin/branch-name
 
 git checkout -b branch-name origin/branch-name
 
+git push origin branch-name
 
