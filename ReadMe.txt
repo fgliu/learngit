@@ -94,5 +94,6 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 git remote add <upstream name >  <remote url>
 git remote update <upstream name>
 git rebase upstream/{branch name}
+git pull
 git push origin master
 
