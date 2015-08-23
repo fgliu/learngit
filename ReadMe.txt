@@ -80,4 +80,10 @@ git tag -a <tagname> -m "blabla"
 
 git tag -s <tagname> -m "blabla"
 
-git tab 
+git tag
+
+git tag -d <tagname>
+git push origin <tagname>
+git push origin --tags
+git push origin :refs/tags/v1.0
+
