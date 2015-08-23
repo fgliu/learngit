@@ -74,3 +74,10 @@ git checkout -b branch-name origin/branch-name
 
 git push origin branch-name
 
+git tag v1.0 or git tag commitid
+
+git tag -a <tagname> -m "blabla"
+
+git tag -s <tagname> -m "blabla"
+
+git tab 
