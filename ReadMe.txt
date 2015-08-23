@@ -87,3 +87,9 @@ git push origin <tagname>
 git push origin --tags
 git push origin :refs/tags/v1.0
 
+git config --global color.ui true
+
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
+
+
