@@ -48,4 +48,10 @@ git checkout -b dev = git branch dev & git checkout dev
 
 git branch
 
+git branch -d <name>
+
+git merge <name> 
+
+git log --graph --pretty=oneline --abbrev-commit
+
 
