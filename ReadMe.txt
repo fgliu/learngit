@@ -56,3 +56,6 @@ git log --graph --pretty=oneline --abbrev-commit
 
 git merge --no-ff
 
+git stash
+
+
