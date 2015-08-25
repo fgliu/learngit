@@ -97,3 +97,6 @@ git rebase upstream/{branch name}
 git pull
 git push origin master
 
+cat  id_rsa.pub  >> git/.ssh/authorized_keys
+git init  --bare sample.git
+
