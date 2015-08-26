@@ -100,3 +100,7 @@ git push origin master
 cat  id_rsa.pub  >> git/.ssh/authorized_keys
 git init  --bare sample.git
 
+git .gitignore
+https://github.com/github/gitignore
+
+
