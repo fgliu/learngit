@@ -50,6 +50,8 @@ git branch
 
 git branch -d <name>
 
+git push origin :<branch-name> #delete origin/branchname
+
 git merge <name> 
 
 git log --graph --pretty=oneline --abbrev-commit
