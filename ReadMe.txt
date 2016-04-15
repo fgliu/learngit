@@ -111,3 +111,6 @@ https://github.com/github/gitignore
 以镜像推送的方式上传代码到 GitCafe 服务器上
 git push --mirror git@github.com:fgliu/newproject.git
 
+瘳雪峰blog
+http://www.liaoxuefeng.com/
+
