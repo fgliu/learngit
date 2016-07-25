@@ -108,9 +108,14 @@ git init  --bare sample.git
 git .gitignore
 https://github.com/github/gitignore
 
-以镜像推送的方式上传代码到 GitCafe 服务器上
+###以镜像推送的方式上传代码到 GitCafe 服务器上
 git push --mirror git@github.com:fgliu/newproject.git
 
-瘳雪峰blog
-http://www.liaoxuefeng.com/
+###想取消已经受控的内容处理方式
+git rm --cached <path>
+###更新.gitignore文件
+git commit -m '不想再对这些文件进行跟踪'
+
+###如果只是临时的不想跟踪指定目录
+git update-index --assume-unchanged <PATH>
 
